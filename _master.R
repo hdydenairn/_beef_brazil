@@ -1,8 +1,3 @@
-# memoire master
-# Harrison dyde-nairn
-
-setwd("~/Documents/m2_memoire/r")
-
 library(tidyr)
 library(dplyr)
 library(plm)
